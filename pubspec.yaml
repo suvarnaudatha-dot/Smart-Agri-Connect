@@ -1,0 +1,34 @@
+name: smart_agri_connect
+description: A smart agriculture app
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  url_launcher: ^6.1.10
+  http: ^1.2.2              # 👈 for APIs (e.g., market prices)
+  shared_preferences: ^2.3.3 # 👈 to store small local data
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1       # 👈 optional but nice look
+  provider: ^6.1.2           # 👈 optional for state management
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+
+  # 👇 Enable code generation for localization
+  generate: true
+
+  # 👇 Optional: include assets like images and JSON files
+

@@ -1,0 +1,22 @@
+{
+  "@@locale": "te",
+  "appTitle": "స్మార్ట్ అగ్రి కనెక్ట్",
+  "dashboard": "డ్యాష్‌బోర్డ్",
+  "dashboardWelcome": "స్మార్ట్ అగ్రి కనెక్ట్‌కు స్వాగతం",
+  "dashboardSubtitle": "మీ స్మార్ట్ పంట సలహాదారు మరియు వ్యవసాయ మద్దతు ప్లాట్‌ఫారమ్.",
+  "cropAdvisory": "పంట సలహాలు",
+  "marketPrices": "మార్కెట్ ధరలు",
+  "diseases": "రోగ్య సమస్యలు",
+  "learningHub": "లెర్నింగ్ హబ్",
+  "govSchemes": "ప్రభుత్వ పథకాలు",
+  "crop": "పంట",
+  "soil": "మట్టిభూమి",
+  "season": "కాలం",
+  "water": "నీరు",
+  "fertilizer": "ఎరువు",
+  "price": "ధర",
+  "symptoms": "లక్షణాలు",
+  "treatment": "చికిత్స",
+  "scheme": "పథకం",
+  "description": "వివరణ"
+}

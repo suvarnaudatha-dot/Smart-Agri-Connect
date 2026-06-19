@@ -1,0 +1,22 @@
+{
+  "@@locale": "en",
+  "appTitle": "Smart Agri Connect",
+  "dashboard": "Dashboard",
+  "dashboardWelcome": "Welcome to Smart Agri Connect",
+  "dashboardSubtitle": "Your smart crop advisor and agricultural support platform.",
+  "cropAdvisory": "Crop Advisory",
+  "marketPrices": "Market Prices",
+  "diseases": "Diseases",
+  "learningHub": "Learning Hub",
+  "govSchemes": "Government Schemes",
+  "crop": "Crop",
+  "soil": "Soil",
+  "season": "Season",
+  "water": "Water",
+  "fertilizer": "Fertilizer",
+  "price": "Price",
+  "symptoms": "Symptoms",
+  "treatment": "Treatment",
+  "scheme": "Scheme",
+  "description": "Description"
+}

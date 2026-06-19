@@ -1,0 +1,22 @@
+{
+  "@@locale": "ta",
+  "appTitle": "ஸ்மார்ட் ஆக்ரி கனெக்ட்",
+  "dashboard": "டாஷ்போர்ட்",
+  "dashboardWelcome": "ஸ்மார்ட் ஆக்ரி கனெக்டிற்கு வரவேற்கிறோம்",
+  "dashboardSubtitle": "உங்கள் புத்திசாலி பயிர் ஆலோசகர் மற்றும் வேளாண் ஆதரவு தளம்.",
+  "cropAdvisory": "பயிர் ஆலோசகர்",
+  "marketPrices": "சந்தை விலைகள்",
+  "diseases": "நோய்கள்",
+  "learningHub": "கற்றல் மையம்",
+  "govSchemes": "அரசுத் திட்டங்கள்",
+  "crop": "பயிர்",
+  "soil": "மண்",
+  "season": "காலம்",
+  "water": "நீர்",
+  "fertilizer": "உரம்",
+  "price": "விலை",
+  "symptoms": "அறிகுறிகள்",
+  "treatment": "சிகிச்சை",
+  "scheme": "திட்டம்",
+  "description": "விவரம்"
+}

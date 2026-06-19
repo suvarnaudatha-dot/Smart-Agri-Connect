@@ -1,0 +1,22 @@
+{
+  "@@locale": "hi",
+  "appTitle": "स्मार्ट एग्री कनेक्ट",
+  "dashboard": "डैशबोर्ड",
+  "dashboardWelcome": "स्मार्ट एग्री कनेक्ट में आपका स्वागत है",
+  "dashboardSubtitle": "आपका स्मार्ट फसल सलाहकार और कृषि सहायता प्लेटफ़ॉर्म।",
+  "cropAdvisory": "फसल परामर्श",
+  "marketPrices": "बाजार मूल्य",
+  "diseases": "रोग",
+  "learningHub": "सीखने का केंद्र",
+  "govSchemes": "सरकारी योजनाएँ",
+  "crop": "फसल",
+  "soil": "मिट्टी",
+  "season": "मौसम",
+  "water": "पानी",
+  "fertilizer": "खाद",
+  "price": "मूल्य",
+  "symptoms": "लक्षण",
+  "treatment": "उपचार",
+  "scheme": "योजना",
+  "description": "विवरण"
+}
